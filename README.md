@@ -25,7 +25,7 @@ The following installation instructions have been verified on Ubuntu 18.04:
 
 *Step 1:*  Install dependencies
 ```
-$ sudo apt-get install build-essential cmake-gui libsuitesparse-dev
+$ sudo apt-get install build-essential cmake-gui libsuitesparse-dev libatlas-base-dev liblapack-dev libblas-dev
 ```
 
 *Step 2:*  Clone the repository
